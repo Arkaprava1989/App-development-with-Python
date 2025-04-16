@@ -1,6 +1,5 @@
 ## Hi there 👋
-I am working as a post-doctoral fellow at the University of Tuebingen, Germany.
-I am working in X-ray absorption spectroscopy and X-ray photoelectron spctroscopy.
+App developement with GUI using Python
 <!--
 **Arkaprava1989/Arkaprava1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

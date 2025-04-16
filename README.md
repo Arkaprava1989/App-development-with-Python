@@ -1,7 +1,7 @@
 ## Hi there 👋
-As a beginner, I have developed a simple calculator with four different mathematical functions, i.e. addition, subtraction, division, multiplication. 
+Python projects for application development. 
 
-tkinter class is used to develop this graphical user interface.
+tkinter class is used to develop these graphical user interfaces.
 <!--
 **Arkaprava1989/Arkaprava1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

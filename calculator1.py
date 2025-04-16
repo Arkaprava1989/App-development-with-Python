@@ -94,7 +94,4 @@ divide.grid(row=4, column=0)
 multiplication.grid(row=4, column=1)
 equality.grid(row=4, column=2)
 clear.grid(row=4, column=3)
-
-
-
 root.mainloop()
